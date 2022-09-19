@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto contruido no evento Next Level Week da Rocketseat.
+Projeto construido no evento Next Level Week da Rocketseat.
 
 🔗 [Clique aqui para acessar](https://thamyresarm.github.io/Projeto-nlw-rocketseat-TrilhaExplorer/)
 
